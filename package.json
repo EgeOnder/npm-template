@@ -1,0 +1,31 @@
+{
+	"name": "pkg-demo",
+	"license": "MIT",
+	"version": "0.0.0",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"module": "dist/index.mjs",
+	"author": {
+		"name": "Ege Onder",
+		"email": "ege@kafeasist.com",
+		"url": "https://kafeasist.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EgeOnder/pkg-demo.git"
+	},
+	"description": "A demo package for testing purposes",
+	"scripts": {
+		"build": "tsc --build",
+		"watch": "tsc --watch",
+		"lint": "eslint . --ext .ts",
+		"tsc": "tsc"
+	},
+	"devDependencies": {
+		"@changesets/cli": "^2.26.1",
+		"@typescript-eslint/eslint-plugin": "^5.57.0",
+		"@typescript-eslint/parser": "^5.57.0",
+		"eslint": "^8.37.0",
+		"typescript": "^5.0.2"
+	}
+}
