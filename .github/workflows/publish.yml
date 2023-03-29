@@ -27,6 +27,6 @@ jobs:
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
-                  publish: pnpm run build && pnpm publish -r
+                  publish: pnpm run build
                   commit: 'chore(release): update versioning and publish'
                   title: 'chore(release): update versioning and publish'
