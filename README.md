@@ -1,12 +1,10 @@
 <h1 align="center">
-  kafeasist
+  pkg-demo
 </h1>
 
 <p align="center">
-  This is an **awesome** demo package for creating packages the _new_ way!
+  This is an <strong>awesome</strong> demo package for creating packages the new way!
 </p>
-
-<div align="center">
 
 [![Build][build-shield]][build-url]
 [![Contributors][contributors-shield]][contributors-url]
