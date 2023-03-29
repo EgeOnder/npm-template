@@ -1,5 +1,5 @@
 {
-	"name": "pkg-demo",
+	"name": "npm-template",
 	"license": "MIT",
 	"version": "0.0.0",
 	"main": "dist/index.js",
@@ -12,7 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/EgeOnder/pkg-demo.git"
+		"url": "https://github.com/EgeOnder/npm-template.git"
 	},
 	"description": "A demo package for testing purposes",
 	"scripts": {

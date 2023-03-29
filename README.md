@@ -1,5 +1,5 @@
 <h1 align="center">
-  pkg-demo
+  npm-template
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 # Contributing
 
-Contributions to the project is highly appreciated. If you have any suggestions/questions/requests please consider [opening an issue](https://github.com/EgeOnder/pkg-demo/issues/new). If you want to contribute to the project, fixing an open issue is greatly recommended and appreciated. To see the all contribution rules please check the [contribution rules](CONTRIBUTING.md).
+Contributions to the project is highly appreciated. If you have any suggestions/questions/requests please consider [opening an issue](https://github.com/EgeOnder/npm-template/issues/new). If you want to contribute to the project, fixing an open issue is greatly recommended and appreciated. To see the all contribution rules please check the [contribution rules](CONTRIBUTING.md).
 
 # License
 
@@ -36,11 +36,11 @@ This project is licensed under `MIT License` if you want to see more, please che
 
 </div>
 
-[build-shield]: https://img.shields.io/github/actions/workflow/status/EgeOnder/pkg-demo/build.yml?style=for-the-badge
-[build-url]: https://github.com/EgeOnder/pkg-demo/actions
-[contributors-shield]: https://img.shields.io/github/contributors/EgeOnder/pkg-demo.svg?style=for-the-badge
-[contributors-url]: https://github.com/EgeOnder/pkg-demo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/EgeOnder/pkg-demo.svg?style=for-the-badge
-[forks-url]: https://github.com/EgeOnder/pkg-demo/network/members
-[stars-shield]: https://img.shields.io/github/stars/EgeOnder/pkg-demo.svg?style=for-the-badge
-[stars-url]: https://github.com/EgeOnder/pkg-demo/stargazers
+[build-shield]: https://img.shields.io/github/actions/workflow/status/EgeOnder/npm-template/build.yml?style=for-the-badge
+[build-url]: https://github.com/EgeOnder/npm-template/actions
+[contributors-shield]: https://img.shields.io/github/contributors/EgeOnder/npm-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/EgeOnder/npm-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/EgeOnder/npm-template.svg?style=for-the-badge
+[forks-url]: https://github.com/EgeOnder/npm-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/EgeOnder/npm-template.svg?style=for-the-badge
+[stars-url]: https://github.com/EgeOnder/npm-template/stargazers
